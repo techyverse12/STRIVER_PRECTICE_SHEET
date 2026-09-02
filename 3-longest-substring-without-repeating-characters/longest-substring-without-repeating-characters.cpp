@@ -1,9 +1,6 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        if(s.size()==1){
-            return 1;
-        }
         int left=0;
         vector<int> freq(256,0);
         int ans=0;
