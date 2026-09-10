@@ -12,8 +12,6 @@ public:
         }
         return count;
     }
-    
-private:
     bool isPalindrome(const string& s, int left, int right) {
         while(left < right) {
             if(s[left] != s[right]) {
