@@ -1,6 +1,7 @@
 class Solution {
 public:
     void solve(int n,vector<string> &ans,int start,int close,string s){
+        //T.c-O(n*catalan number)
         if(s.size()==2*n){
             ans.push_back(s);
             return;
