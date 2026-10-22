@@ -2,7 +2,7 @@
 
 My LeetCode solutions, mostly in C++, following Striver's A2Z DSA sheet. Every accepted submission is pushed here automatically by [LeetSync](https://github.com/LeetSync/LeetSync), and this index rebuilds itself on each push.
 
-**34 problems here** · 7 easy · 20 medium · 7 hard
+**35 problems here** · 7 easy · 21 medium · 7 hard
 
 Full profile: [leetcode.com/u/Kavaygoyal493](https://leetcode.com/u/Kavaygoyal493/)
 
@@ -42,6 +42,7 @@ Full profile: [leetcode.com/u/Kavaygoyal493](https://leetcode.com/u/Kavaygoyal49
 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | [code](./907-koko-eating-bananas/) | C++ |
 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets) | [code](./1605-minimum-number-of-days-to-make-m-bouquets/) | C++ |
 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | [code](./2271-rearrange-array-elements-by-sign/) | pending |
+| [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation) | [code](./4184-minimum-operations-to-sort-a-permutation/) | pending |
 
 ## Hard
 
@@ -52,5 +53,5 @@ Full profile: [leetcode.com/u/Kavaygoyal493](https://leetcode.com/u/Kavaygoyal49
 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | [code](./295-find-median-from-data-stream/) | C++ |
 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) | [code](./410-split-array-largest-sum/) | C++ |
 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs) | [code](./493-reverse-pairs/) | C++ |
-| [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras) | [code](./1008-binary-tree-cameras/) | pending |
+| [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras) | [code](./1008-binary-tree-cameras/) | C++ |
 | [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid) | [code](./1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | C++ |
