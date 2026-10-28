@@ -2,7 +2,7 @@
 
 My LeetCode solutions, mostly in C++, following Striver's A2Z DSA sheet. Every accepted submission is pushed here automatically by [LeetSync](https://github.com/LeetSync/LeetSync), and this index rebuilds itself on each push.
 
-**35 problems here** · 7 easy · 21 medium · 7 hard
+**36 problems here** · 8 easy · 21 medium · 7 hard
 
 Full profile: [leetcode.com/u/Kavaygoyal493](https://leetcode.com/u/Kavaygoyal493/)
 
@@ -14,6 +14,7 @@ Full profile: [leetcode.com/u/Kavaygoyal493](https://leetcode.com/u/Kavaygoyal49
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [code](./121-best-time-to-buy-and-sell-stock/) | C++ |
 | [Majority Element](https://leetcode.com/problems/majority-element) | [code](./169-majority-element/) | C++ |
 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | [code](./541-reverse-string-ii/) | C++ |
+| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | [code](./1013-fibonacci-number/) | pending |
 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | [code](./1078-remove-outermost-parentheses/) | C++ |
 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | [code](./1737-maximum-nesting-depth-of-the-parentheses/) | C++ |
 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets) | [code](./1827-invalid-tweets/) | SQL |
@@ -42,7 +43,7 @@ Full profile: [leetcode.com/u/Kavaygoyal493](https://leetcode.com/u/Kavaygoyal49
 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | [code](./907-koko-eating-bananas/) | C++ |
 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets) | [code](./1605-minimum-number-of-days-to-make-m-bouquets/) | C++ |
 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | [code](./2271-rearrange-array-elements-by-sign/) | pending |
-| [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation) | [code](./4184-minimum-operations-to-sort-a-permutation/) | pending |
+| [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation) | [code](./4184-minimum-operations-to-sort-a-permutation/) | C++ |
 
 ## Hard
 
