@@ -2,7 +2,7 @@
 
 My LeetCode solutions, mostly in C++, following Striver's A2Z DSA sheet. Every accepted submission is pushed here automatically by [LeetSync](https://github.com/LeetSync/LeetSync), and this index rebuilds itself on each push.
 
-**37 problems here** · 9 easy · 21 medium · 7 hard
+**38 problems here** · 9 easy · 22 medium · 7 hard
 
 Full profile: [leetcode.com/u/Kavaygoyal493](https://leetcode.com/u/Kavaygoyal493/)
 
@@ -39,6 +39,7 @@ Full profile: [leetcode.com/u/Kavaygoyal493](https://leetcode.com/u/Kavaygoyal49
 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [code](./128-longest-consecutive-sequence/) | C++ |
 | [Sort List](https://leetcode.com/problems/sort-list) | [code](./148-sort-list/) | C++ |
 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [code](./153-find-minimum-in-rotated-sorted-array/) | C++ |
+| [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable) | [code](./307-range-sum-query-mutable/) | pending |
 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [code](./647-palindromic-substrings/) | C++ |
 | [Network Delay Time](https://leetcode.com/problems/network-delay-time) | [code](./744-network-delay-time/) | C++ |
 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | [code](./907-koko-eating-bananas/) | C++ |
