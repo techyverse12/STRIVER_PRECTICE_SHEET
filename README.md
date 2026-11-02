@@ -2,7 +2,7 @@
 
 My LeetCode solutions, mostly in C++, following Striver's A2Z DSA sheet. Every accepted submission is pushed here automatically by [LeetSync](https://github.com/LeetSync/LeetSync), and this index rebuilds itself on each push.
 
-**39 problems here** · 9 easy · 23 medium · 7 hard
+**40 problems here** · 10 easy · 23 medium · 7 hard
 
 Full profile: [leetcode.com/u/Kavaygoyal493](https://leetcode.com/u/Kavaygoyal493/)
 
@@ -11,6 +11,7 @@ Full profile: [leetcode.com/u/Kavaygoyal493](https://leetcode.com/u/Kavaygoyal49
 | Problem | Solution | Language |
 |---|---|---|
 | [Two Sum](https://leetcode.com/problems/two-sum) | [code](./1-two-sum/) | C++ |
+| [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | [code](./28-find-the-index-of-the-first-occurrence-in-a-string/) | pending |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [code](./121-best-time-to-buy-and-sell-stock/) | C++ |
 | [Majority Element](https://leetcode.com/problems/majority-element) | [code](./169-majority-element/) | C++ |
 | [Power of Two](https://leetcode.com/problems/power-of-two) | [code](./231-power-of-two/) | pending |
@@ -40,7 +41,7 @@ Full profile: [leetcode.com/u/Kavaygoyal493](https://leetcode.com/u/Kavaygoyal49
 | [Sort List](https://leetcode.com/problems/sort-list) | [code](./148-sort-list/) | C++ |
 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [code](./153-find-minimum-in-rotated-sorted-array/) | C++ |
 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable) | [code](./307-range-sum-query-mutable/) | C++ |
-| [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii) | [code](./462-minimum-moves-to-equal-array-elements-ii/) | pending |
+| [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii) | [code](./462-minimum-moves-to-equal-array-elements-ii/) | C++ |
 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [code](./647-palindromic-substrings/) | C++ |
 | [Network Delay Time](https://leetcode.com/problems/network-delay-time) | [code](./744-network-delay-time/) | C++ |
 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | [code](./907-koko-eating-bananas/) | C++ |
