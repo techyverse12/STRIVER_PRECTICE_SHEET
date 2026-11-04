@@ -2,7 +2,7 @@
 
 My LeetCode solutions, mostly in C++, following Striver's A2Z DSA sheet. Every accepted submission is pushed here automatically by [LeetSync](https://github.com/LeetSync/LeetSync), and this index rebuilds itself on each push.
 
-**40 problems here** · 10 easy · 23 medium · 7 hard
+**41 problems here** · 11 easy · 23 medium · 7 hard
 
 Full profile: [leetcode.com/u/Kavaygoyal493](https://leetcode.com/u/Kavaygoyal493/)
 
@@ -11,9 +11,10 @@ Full profile: [leetcode.com/u/Kavaygoyal493](https://leetcode.com/u/Kavaygoyal49
 | Problem | Solution | Language |
 |---|---|---|
 | [Two Sum](https://leetcode.com/problems/two-sum) | [code](./1-two-sum/) | C++ |
-| [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | [code](./28-find-the-index-of-the-first-occurrence-in-a-string/) | pending |
+| [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | [code](./28-find-the-index-of-the-first-occurrence-in-a-string/) | Java |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [code](./121-best-time-to-buy-and-sell-stock/) | C++ |
 | [Majority Element](https://leetcode.com/problems/majority-element) | [code](./169-majority-element/) | C++ |
+| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [code](./206-reverse-linked-list/) | pending |
 | [Power of Two](https://leetcode.com/problems/power-of-two) | [code](./231-power-of-two/) | pending |
 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | [code](./541-reverse-string-ii/) | C++ |
 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | [code](./1013-fibonacci-number/) | C++ |
